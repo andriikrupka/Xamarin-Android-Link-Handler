@@ -18,7 +18,7 @@ namespace Xamarin.Droid.LinkHandler
             textView.TextFormatted = Html.FromHtml(
                     "<b>Url:</b>  Text with a " +
                     "<a href=\"http://www.xamarin.com\">link</a> " +
-                "created in the Java source code using HTML.");
+                "created in the code using TextView.");
 
             var extendedLinkMovementMethod = new ExtendedLinkMovementMethod(new string[] { "www", "http" });
             extendedLinkMovementMethod.LinkClicked += OnLinkClicked;
