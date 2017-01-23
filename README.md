@@ -1,6 +1,6 @@
 # Xamarin-Android-Link-Handler
 
-Hello Every one!
+Hello Everyone!
 
 ## ExtendedLinkMovementMethod
 A movement method that extends system `LinkMovementMethod` and gives possibility to handle different link to an event.
